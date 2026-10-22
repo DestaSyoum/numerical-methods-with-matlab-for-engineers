@@ -28,6 +28,10 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 ## 🎯 Course Structure
 
+<table>
+<tr>
+<td width="65%">
+
 ### Chapter 1: Numerical Foundations
 - **1.1** Mathematical modelling and numerical problem solving
 - **1.2** MATLAB foundations for numerical work
@@ -36,12 +40,38 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 [View Chapter 1 →](chapters/chapter-01-numerical-foundations/README.md)
 
+</td>
+<td width="35%">
+
+<img src="figures/04_error_tradeoff.png" alt="Error analysis" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="65%">
+
 ### Chapter 2: Nonlinear Equations and Optimization
 - **2.1** Bracketing methods (Bisection)
 - **2.2** Open methods (Newton-Raphson)
 - **2.3** One-dimensional optimization (Golden-section search)
 
 [View Chapter 2 →](chapters/chapter-02-nonlinear-equations-and-optimization/README.md)
+
+</td>
+<td width="35%">
+
+<img src="figures/07_optimization.png" alt="Optimization" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="65%">
 
 ### Chapter 3: Linear Systems and Eigenvalue Problems
 - **3.1** Linear systems and matrix formulation
@@ -52,6 +82,19 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 [View Chapter 3 →](chapters/chapter-03-linear-systems-and-eigenvalue-problems/README.md)
 
+</td>
+<td width="35%">
+
+<img src="figures/13_eigenvalue.png" alt="Eigenvalue problems" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="65%">
+
 ### Chapter 4: Data Approximation and Signal Analysis
 - **4.1** Linear regression
 - **4.2** Least-squares approximation
@@ -61,6 +104,19 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 [View Chapter 4 →](chapters/chapter-04-data-approximation-and-signal-analysis/README.md)
 
+</td>
+<td width="35%">
+
+<img src="figures/16_fourier_analysis.png" alt="Fourier analysis" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="65%">
+
 ### Chapter 5: Numerical Integration and Differentiation
 - **5.1** Numerical integration formulas
 - **5.2** Integration of functions
@@ -68,12 +124,34 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 [View Chapter 5 →](chapters/chapter-05-numerical-integration-and-differentiation/README.md)
 
+</td>
+<td width="35%">
+
+<img src="figures/19_20_integration.png" alt="Numerical integration" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="65%">
+
 ### Chapter 6: Ordinary Differential Equations
 - **6.1** Initial-value problems
 - **6.2** Adaptive methods and stiffness
 - **6.3** Boundary-value problems
 
 [View Chapter 6 →](chapters/chapter-06-ordinary-differential-equations/README.md)
+
+</td>
+<td width="35%">
+
+<img src="figures/22_initial_value_problem.png" alt="ODE initial value problem" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Getting Started
 
