@@ -44,7 +44,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Finite_element_mesh.jpg?width=720" alt="Finite-element mesh illustrating discretisation" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meshing_in_Finite_Element_Analysis.jpg?width=720" alt="Finite element mesh generation" width="100%">
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Newtons_method_graph.jpg?width=720" alt="Newton's method convergence graphic" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Topology-optimization-off-diagonal-design-evolution.gif?width=720" alt="Topology optimization in engineering design" width="100%">
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gauss_Eliminierung.svg?width=720" alt="Gaussian elimination illustration" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beam_mode_2.gif?width=720" alt="Vibration mode shapes showing eigenvalues" width="100%">
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fourier_transform%2C_Fourier_series%2C_DTFT%2C_DFT.svg?width=720" alt="Fourier-transform relationships" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/STFT_colored_spectrogram_25ms.png?width=720" alt="Spectrogram showing Fourier analysis in signal processing" width="100%">
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_rule.svg?width=720" alt="Simpson's-rule illustration" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Heat_Transfer.gif?width=720" alt="Heat transfer showing numerical integration" width="100%">
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Runge-kutta.svg?width=720" alt="Runge-Kutta method illustration" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Poutre_flexion_trois_points_diagrammes.svg?width=720" alt="Beam deflection showing ODE applications" width="100%">
 
 </td>
 </tr>
