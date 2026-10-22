@@ -2,7 +2,6 @@
 
 A comprehensive collection of teaching materials, MATLAB implementations, and worked examples for a numerical methods course designed for engineering students.
 
-[![Course Status](https://img.shields.io/badge/status-5%2F6%20chapters-brightgreen)](https://github.com/DestaSyoum/numerical-methods-with-matlab-for-engineers)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-blue)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -30,17 +29,25 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 ## 🎯 Course Structure
 
-| Chapter | Topic | Status | Sections |
-|---------|-------|--------|----------|
-| 1 | Numerical Modelling, MATLAB Foundations, and Error Analysis | 🚧 In Development | 1.1-1.4 |
-| 2 | Nonlinear Equations and Optimization | ✅ Available | 2.1-2.3 |
-| 3 | Linear Systems and Eigenvalue Problems | ✅ Available | 3.1-3.5 |
-| 4 | Data Approximation and Signal Analysis | ✅ Available | 4.1-4.5 |
-| 5 | Numerical Integration and Differentiation | ✅ Available | 5.1-5.3 |
-| 6 | Ordinary Differential Equations | ✅ Available | 6.1-6.3 |
+| Chapter | Topic | Sections |
+|---------|-------|----------|
+| 1 | Numerical Modelling, MATLAB Foundations, and Error Analysis | 1.1-1.4 |
+| 2 | Nonlinear Equations and Optimization | 2.1-2.3 |
+| 3 | Linear Systems and Eigenvalue Problems | 3.1-3.5 |
+| 4 | Data Approximation and Signal Analysis | 4.1-4.5 |
+| 5 | Numerical Integration and Differentiation | 5.1-5.3 |
+| 6 | Ordinary Differential Equations | 6.1-6.3 |
 
 
 ## 📖 Chapter Contents
+
+### Chapter 1: Numerical Foundations
+- **1.1** Mathematical modelling and numerical problem solving
+- **1.2** MATLAB foundations for numerical work
+- **1.3** Scripts, functions, and reproducibility
+- **1.4** Roundoff and truncation errors
+
+[View Chapter 1 →](chapters/chapter-01-numerical-foundations/README.md)
 
 ### Chapter 2: Nonlinear Equations and Optimization
 - **2.1** Bracketing methods (Bisection)
@@ -124,6 +131,7 @@ run_all_examples
 ```
 numerical-methods-with-matlab-for-engineers/
 ├── chapters/          # Chapter notes and learning guidance
+│   ├── chapter-01-.../
 │   ├── chapter-02-.../
 │   ├── chapter-03-.../
 │   └── ...
@@ -136,7 +144,6 @@ numerical-methods-with-matlab-for-engineers/
 │   ├── optimization_demo.m
 │   └── ...
 ├── figures/           # Generated figures used in the notes
-├── notes/             # Additional teaching notes
 ├── run_all_examples.m # Script to run all demonstrations
 └── README.md          # This file
 ```
