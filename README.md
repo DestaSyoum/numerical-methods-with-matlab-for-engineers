@@ -28,7 +28,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 
 ## 🎯 Course Structure
 
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="65%">
 
@@ -49,7 +49,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </tr>
 </table>
 
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="65%">
 
@@ -69,7 +69,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </tr>
 </table>
 
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="65%">
 
@@ -91,7 +91,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </tr>
 </table>
 
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="65%">
 
@@ -133,7 +133,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </tr>
 </table>
 
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="65%">
 
