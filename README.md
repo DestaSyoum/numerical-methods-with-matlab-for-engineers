@@ -44,7 +44,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meshing_in_Finite_Element_Analysis.jpg?width=720" alt="Finite element mesh generation" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/FAE_visualization.jpg?width=720" alt="Finite element analysis visualization" width="100%">
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/07_optimization.png" alt="Optimization" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/X_48B_model_in_wind_tunnel.jpg?width=720" alt="Aircraft model in wind tunnel showing optimization" width="100%">
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/13_eigenvalue.png" alt="Eigenvalue problems" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg?width=720" alt="Golden Gate Bridge showing linear systems applications" width="100%">
 
 </td>
 </tr>
@@ -96,19 +96,19 @@ This repository provides structured teaching notes, MATLAB implementations, work
 <tr style="border: none;">
 <td style="border: none; padding: 0;" width="65%">
 
-### Chapter 4: Data Approximation and Signal Analysis
+### Chapter 4: Curve Fitting
 - **4.1** Linear regression
 - **4.2** Least-squares approximation
 - **4.3** Fourier analysis
 - **4.4** Polynomial interpolation
 - **4.5** Splines and piecewise interpolation
 
-[View Chapter 4 →](chapters/chapter-04-data-approximation-and-signal-analysis/README.md)
+[View Chapter 4 →](chapters/chapter-04-curve-fitting/README.md)
 
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/STFT_colored_spectrogram_25ms.png?width=720" alt="Spectrogram showing Fourier analysis in signal processing" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Square_Wave_Fourier_Series.svg?width=720" alt="Fourier series approximation showing signal analysis importance" width="100%">
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Heat_Transfer.gif?width=720" alt="Heat transfer showing numerical integration" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Integration_num_trapezes_notation.svg?width=720" alt="Trapezoidal-rule numerical integration illustration" width="100%">
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/22_initial_value_problem.png" alt="ODE initial value problem" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Phasenportraet_mit_vektorfeld.svg?width=720" alt="Phase portrait and vector field for an ordinary differential equation" width="100%">
 
 </td>
 </tr>
