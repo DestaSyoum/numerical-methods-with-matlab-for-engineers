@@ -13,6 +13,7 @@ A comprehensive collection of teaching materials, MATLAB implementations, and wo
 - [Repository Structure](#-repository-structure)
 - [Learning Outcomes](#-learning-outcomes)
 - [Reference Text](#-reference-text)
+- [Visual Credits](#-visual-credits)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
@@ -43,7 +44,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/04_error_tradeoff.png" alt="Error analysis" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Finite_element_mesh.jpg?width=720" alt="Finite-element mesh illustrating discretisation" width="100%">
 
 </td>
 </tr>
@@ -63,7 +64,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/07_optimization.png" alt="Optimization" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Newtons_method_graph.jpg?width=720" alt="Newton's method convergence graphic" width="100%">
 
 </td>
 </tr>
@@ -85,7 +86,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/13_eigenvalue.png" alt="Eigenvalue problems" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gauss_Eliminierung.svg?width=720" alt="Gaussian elimination illustration" width="100%">
 
 </td>
 </tr>
@@ -107,7 +108,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/16_fourier_analysis.png" alt="Fourier analysis" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fourier_transform%2C_Fourier_series%2C_DTFT%2C_DFT.svg?width=720" alt="Fourier-transform relationships" width="100%">
 
 </td>
 </tr>
@@ -127,7 +128,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/19_20_integration.png" alt="Numerical integration" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_rule.svg?width=720" alt="Simpson's-rule illustration" width="100%">
 
 </td>
 </tr>
@@ -147,7 +148,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="figures/22_initial_value_problem.png" alt="ODE initial value problem" width="100%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Runge-kutta.svg?width=720" alt="Runge-Kutta method illustration" width="100%">
 
 </td>
 </tr>
@@ -227,6 +228,10 @@ After completing this course, students will be able to:
 ## 📚 Reference Text
 
 Steven C. Chapra, *Applied Numerical Methods with MATLAB for Engineers and Scientists*
+
+## 🖼️ Visual Credits
+
+The chapter previews use openly licensed or public-domain visuals hosted by Wikimedia Commons. Full author and licence details are listed in [MEDIA_CREDITS.md](MEDIA_CREDITS.md).
 
 ## 🤝 Contributing
 
