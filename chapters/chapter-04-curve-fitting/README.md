@@ -1,8 +1,8 @@
-# Chapter 4: Data Approximation and Signal Analysis
+# Chapter 4: Curve Fitting
 
 ## Chapter overview
 
-Experimental and simulated data must often be represented by a useful mathematical model. This chapter covers regression, interpolation, splines, and Fourier analysis, with an emphasis on selecting an approximation that matches the question being asked.
+Experimental and simulated data must often be represented by a useful mathematical model. This chapter develops curve-fitting methods through regression, least-squares approximation, interpolation, and splines, with Fourier analysis included as a complementary representation of signals.
 
 ## Learning outcomes
 
