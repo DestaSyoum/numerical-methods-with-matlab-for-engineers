@@ -6,10 +6,10 @@ The course is organised as chapters. Each chapter is divided into numbered secti
 | --- | --- | --- | --- |
 | 1 | 1.1-1.4 | Numerical modelling, MATLAB foundations, and error analysis | In development |
 | 2 | 2.1-2.3 | Nonlinear equations and optimization | Available |
-| 3 | 3.1-3.6 | Linear systems and eigenvalue problems | Planned |
-| 4 | 4.1-4.5 | Regression, interpolation, and Fourier analysis | Planned |
-| 5 | 5.1-5.3 | Numerical integration and differentiation | Planned |
-| 6 | 6.1-6.3 | Ordinary differential equations | Planned |
+| 3 | 3.1-3.5 | Linear systems and eigenvalue problems | Available |
+| 4 | 4.1-4.5 | Regression, interpolation, and Fourier analysis | Available |
+| 5 | 5.1-5.3 | Numerical integration and differentiation | Available |
+| 6 | 6.1-6.3 | Ordinary differential equations | Available |
 
 ## Chapter 2 sections
 

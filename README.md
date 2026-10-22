@@ -18,6 +18,15 @@ Each chapter presents the mathematical idea, the algorithm, its MATLAB implement
 
 Start with the [Chapter 2 notes](chapters/chapter-02-nonlinear-equations-and-optimization/README.md).
 
+### Chapters 3-6
+
+| Chapter | Topic | Notes |
+| --- | --- | --- |
+| 3 | Linear Systems and Eigenvalue Problems | [Open Chapter 3](chapters/chapter-03-linear-systems-and-eigenvalue-problems/README.md) |
+| 4 | Data Approximation and Signal Analysis | [Open Chapter 4](chapters/chapter-04-data-approximation-and-signal-analysis/README.md) |
+| 5 | Numerical Integration and Differentiation | [Open Chapter 5](chapters/chapter-05-numerical-integration-and-differentiation/README.md) |
+| 6 | Ordinary Differential Equations | [Open Chapter 6](chapters/chapter-06-ordinary-differential-equations/README.md) |
+
 ## Using the MATLAB material
 
 Open MATLAB in the repository root and run:
@@ -41,7 +50,7 @@ examples/   Worked demonstrations and figure-generation scripts
 figures/    Generated figures used in the notes
 ```
 
-## Planned chapters
+## Course development
 
 | Chapter | Theme |
 | --- | --- |
@@ -50,6 +59,8 @@ figures/    Generated figures used in the notes
 | 4 | Regression, interpolation, and Fourier analysis |
 | 5 | Numerical integration and differentiation |
 | 6 | Ordinary differential equations |
+
+Chapters 2-6 are available. Chapter 1 will be added after the foundational material has been prepared to the same standard.
 
 ## Reference
 
