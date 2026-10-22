@@ -9,7 +9,6 @@ A comprehensive collection of teaching materials, MATLAB implementations, and wo
 
 - [Overview](#-overview)
 - [Course Structure](#-course-structure)
-- [Chapter Contents](#-chapter-contents)
 - [Getting Started](#-getting-started)
 - [Repository Structure](#-repository-structure)
 - [Learning Outcomes](#-learning-outcomes)
@@ -28,18 +27,6 @@ This repository provides structured teaching notes, MATLAB implementations, work
 - **Hands-on Learning**: Interactive demonstrations that encourage experimentation with parameters and tolerances
 
 ## 🎯 Course Structure
-
-| Chapter | Topic | Sections |
-|---------|-------|----------|
-| 1 | Numerical Modelling, MATLAB Foundations, and Error Analysis | 1.1-1.4 |
-| 2 | Nonlinear Equations and Optimization | 2.1-2.3 |
-| 3 | Linear Systems and Eigenvalue Problems | 3.1-3.5 |
-| 4 | Data Approximation and Signal Analysis | 4.1-4.5 |
-| 5 | Numerical Integration and Differentiation | 5.1-5.3 |
-| 6 | Ordinary Differential Equations | 6.1-6.3 |
-
-
-## 📖 Chapter Contents
 
 ### Chapter 1: Numerical Foundations
 - **1.1** Mathematical modelling and numerical problem solving
