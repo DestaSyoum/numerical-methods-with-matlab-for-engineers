@@ -64,7 +64,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Topology-optimization-off-diagonal-design-evolution.gif?width=720" alt="Topology optimization in engineering design" width="100%">
+<img src="figures/07_optimization.png" alt="Optimization" width="100%">
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beam_mode_2.gif?width=720" alt="Vibration mode shapes showing eigenvalues" width="100%">
+<img src="figures/13_eigenvalue.png" alt="Eigenvalue problems" width="100%">
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ This repository provides structured teaching notes, MATLAB implementations, work
 </td>
 <td style="border: none; padding: 0;" width="35%">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Poutre_flexion_trois_points_diagrammes.svg?width=720" alt="Beam deflection showing ODE applications" width="100%">
+<img src="figures/22_initial_value_problem.png" alt="ODE initial value problem" width="100%">
 
 </td>
 </tr>
